@@ -1,0 +1,84 @@
+[
+    {
+        "title" : "(OS) computer abbreviation usually means?",
+        "answer_1" : "Order of Significance",
+        "answer_2" : "Open Software",
+        "answer_3" : "Operating System",
+        "right_answer" : "Operating System"
+
+
+    },
+    {
+        "title" : "(.MOV) extension refers usually to what kind of file?",
+        "answer_1" : "Image file",
+        "answer_2" : "Animation/movie file",
+        "answer_3" : "Audio file",
+        "right_answer" : "Animation/movie file"
+    },
+    {
+        "title" : "Who developed Yahoo?",
+        "answer_1" : "Dennis Ritchie & Ken Thompson",
+        "answer_2" : "David Filo & Jerry Yang",
+        "answer_3" : "Vint Cerf & Robert Kahn",
+        "right_answer" : "David Filo & Jerry Yang"
+
+    },
+
+    {
+        "title" : "(.INI) extension refers usually to what kind of file?",
+        "answer_1" : "System file",
+        "answer_2" : "Image file",
+        "answer_3" : "Hypertext related file",
+        "right_answer" : "System file"
+
+    },
+    {
+        "title" : "Who co-founded Hotmail in 1996 and then sold the company to Microsoft?",
+        "answer_1" : "Shawn Fanning",
+        "answer_2" : "Ada Byron Lovelace",
+        "answer_3" : "Sabeer Bhatia",
+        "right_answer" : "Sabeer Bhatia"
+
+    },
+    {
+        "title" : "(.TMP) extension refers usually to what kind of file?",
+        "answer_1" : "Compressed Archive file",
+        "answer_2" : "Temporary file",
+        "answer_3" : "Audio file",
+        "right_answer" : "Temporary file"
+
+    },
+    {
+        "title" : "(.JPG) extension refers usually to what kind of file?",
+        "answer_1" : "System file",
+        "answer_2" : "MS Encarta document",
+        "answer_3" : "Image file",
+        "right_answer" : "Image file"
+
+    },
+    {
+        "title" : "In what year was the (@) chosen for its use in e-mail addresses?",
+        "answer_1" : "1976",
+        "answer_2" : "1972",
+        "answer_3" : "1980",
+        "right_answer" : "1972"
+
+    },
+
+    {
+        "title" : "What was the first ARPANET message?",
+        "answer_1" : "lo",
+        "answer_2" : "hello world",
+        "answer_3" : "mary had a little lamb",
+        "right_answer" : "lo"
+
+    },
+    {
+        "title" : "(DTP) computer abbreviation usually means ?",
+        "answer_1" : "Data Type Programming",
+        "answer_2" : "DeskTop Publishing",
+        "answer_3" : "Digital Transmission Protocol",
+        "right_answer" : "DeskTop Publishing"
+
+    }
+]
